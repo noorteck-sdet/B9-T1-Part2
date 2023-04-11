@@ -14,5 +14,6 @@ public class CloneTest {
 	}
 	
 	int age =30;
+	int count=3;
 
 }
