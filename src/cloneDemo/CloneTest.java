@@ -13,7 +13,7 @@ public class CloneTest {
 		return a - b;
 	}
 	
-	int age =30;
+	int age =25;
 	int count=3;
 
 }
