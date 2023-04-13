@@ -15,5 +15,9 @@ public class CloneTest {
 	
 	int age =25;
 	int count=3;
+	
+	public void divid() {
+		System.out.println(4/2);
+	}
 
 }
