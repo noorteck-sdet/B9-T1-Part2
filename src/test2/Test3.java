@@ -10,6 +10,6 @@ public class Test3 {
 	
 	public static double finalPrice(double total) {
 		return total;
-Syste.out.println ("drink...........");
+System.out.println ("drink...........");
 	}
 }
