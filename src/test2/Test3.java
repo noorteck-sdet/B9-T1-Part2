@@ -12,5 +12,6 @@ public class Test3 {
 		return total;
 System.out.println ("drink...........");
 //this is a test
+//Hope to see blood diamond
 	}
 }
