@@ -6,4 +6,8 @@ public class Test3 {
 		System.out.println("Yaaay");
 		System.out.println("hello");
 	}
+	
+	public static double finalPrice(double total) {
+		return total;
+	}
 }
