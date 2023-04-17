@@ -10,11 +10,7 @@ public class Test3 {
 	public static double finalPrice(double total) {
 		return total;
 	}
-	System.out.println ('feeling hungry for food.......')
-	
-	
-	
-	
-}
+	System.out.println("feeling hungry for food.......");
+	}
 
 
