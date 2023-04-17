@@ -8,4 +8,7 @@ public class Demo1 {
 	public void add() {
 		System.out.println(2+1);
 	}
+	public void multiply() {
+		System.out.println(2*2);
+	}
 }
