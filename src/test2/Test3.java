@@ -12,7 +12,6 @@ public class Test3 {
 	
 	public static double finalPrice(double total) {
 		return total;
-System.out.println ("drink...........");
 //this is a test
 //Hope to see blood diamond
 	}
