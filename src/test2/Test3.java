@@ -6,6 +6,7 @@ public class Test3 {
 		System.out.println("Yaaay");
 		System.out.println("hello");
 		System.out.println("eating");
+		System.out.println("SDLC");
 	}
 	
 	public static double finalPrice(double total) {
