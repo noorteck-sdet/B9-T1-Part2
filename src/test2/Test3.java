@@ -14,5 +14,6 @@ public class Test3 {
 		return total;
 //this is a test
 //Hope to see blood diamond
+//Took care of blood diamond
 	}
 }
